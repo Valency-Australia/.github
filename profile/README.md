@@ -1,2 +1,2 @@
-# VALENCY
-### AUSSIE. OPEN-SOURCE. SUPER-LOW FEES.
+# Valency
+### A better way to trade crypto. Aussie. Open-Source. Super-Low Fees.
